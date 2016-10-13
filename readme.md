@@ -16,11 +16,12 @@ This class will have 1 long-term assignment for the duration of the class, one s
 
 Over the course of the class, students will keep a "computation diary" observing where, when, and how they interact with computers. The goal is to introduce students to an expanded definition of what constitutes computation--using a Metrocard kiosk or waiting at a crosswalk is as much a human-computer interaction as using a phone is a human-computer interaction. 
 
-Students are also allowed to think about the assignment in terms of specific technologies that they might interact with a lot but that they may take for granted--for example, you could go really deep on GPS' history and how it works and keep track of every time you look for directions on a smartphone. The point is mostly that over the course of your time at the school, you're 
+Students are also allowed to think about the assignment in terms of specific technologies that they might interact with a lot but that they may take for granted--for example, you could go really deep on GPS' history and how it works and keep track of every time you look for directions on a smartphone. The point is mostly that over the course of your time at the school, you’re taking a little bit of time each day to think about how you live with technology. 
 
 The medium for the diary is entirely up to the discretion of the participant--photography, drawing, a paper diary, a map, a website, a Twitter bot, all totally reasonable options. Given the number of other assignments that you all have, please don't feel obligated to do something super-ambitious and complicated. Like, try not to spend more than 15 minutes each day of the next few weeks on logging your computer interactions. 
 
-Students will be asked to describe the form and focus of their project by the second session of the class (field trip day, which is a convenient starting point as we'll be going to look at technology "in the field" as it were). Students will be asked to present their diaries at the end of the class. 
+You will need to let me know what form you want your diary to take by **October 24**. I’ll be talking with each of you one-on-one to get a sense of what you’re doing. If you're struggling with this or need some help thinking about the project before then please don't hesitate to reach out. 
+
 
 ### Short-Term Assignment: Materials Research
 
